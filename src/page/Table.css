@@ -1,0 +1,20 @@
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+
+}
+
+th {
+    font-size: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    font-size: 20px;
+}
